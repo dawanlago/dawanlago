@@ -16,8 +16,3 @@ Aaaaah... Também tenho na bagagem algumas habilidades pessoais:
 - Proativo;
 - Vontade de compartilhar conhecimento;
 - Super fácil de lidar;
-
-<hr style="border: 2px; border-color: '#333'">
-
-<a href="https://www.linkedin.com/in/dawanlago/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?phone=5573988936370&text=Ol%C3%A1%2C%20Dawan!%20Tudo%20bem%3F%20Cheguei%20at%C3%A9%20voc%C3%AA%20pelo%20GitHub..." target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
