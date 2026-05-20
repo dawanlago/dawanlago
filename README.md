@@ -1,18 +1,67 @@
-## Olá rede..., sou <strong>Dawan Lago</strong> e abaixo tem um pouco de mim 👋
+# 👋 Olá, eu sou Dawan Lago
 
-#### Já que você chegou aqui posso lhe apresentar algumas das minhas habilidades:
+🚀 Desenvolvedor e estrategista apaixonado por tecnologia, crescimento escalável e construção de produtos digitais que realmente geram impacto.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 height=24/> <strong>Javascript</strong>;<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=24 height=24/> <strong>ReactJS</strong>;<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=24 height=24/> <strong>React Native</strong>;<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width=24 height=24/> <strong>VueJS</strong>;<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=24 height=24/><strong> NodeJS</strong>;<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=24 height=24/> <strong>Figma</strong>;<br />
-<img src="https://solutionmarketing.files.wordpress.com/2013/05/agile.png?w=290&h=214" width=32 height=24/> <strong>Metodologias ágeis</strong>;<br />
+Atualmente atuo desenvolvendo projetos de tecnologia, expansão de negócios e desenvolvimento de soluções digitais voltadas para performance, automação e experiência do usuário.
 
-Aaaaah... Também tenho na bagagem algumas habilidades pessoais:
+## 💼 O que eu faço
 
-- Disciplinado;
-- Proativo;
-- Vontade de compartilhar conhecimento;
-- Super fácil de lidar;
+- 🧠 Liderança estratégica e gestão de projetos
+- 📱 Desenvolvimento Mobile com Flutter e React Native
+- 🌐 Desenvolvimento Full Stack
+- ☁️ Deploys e infraestrutura com Railway, Vercel e Netlify
+- 🔥 Integrações com Firebase, APIs e automações
+- 📊 Estruturação de processos, sprints e produtividade
+- 🎯 Marketing, crescimento e expansão de negócios
+
+## 🛠️ Tecnologias e ferramentas
+
+### Mobile & Frontend
+- Flutter
+- Dart
+- React
+- React Native
+- Vue
+- Next.js
+
+### Backend & Banco de Dados
+- Node.js
+- Firebase
+- MongoDB
+- REST APIs
+
+### DevOps & Cloud
+- Railway
+- Vercel
+- Netlify
+- GitHub Actions
+- Codemagic
+
+### Organização & Gestão
+- ClickUp
+- Scrum
+- Metodologias Ágeis
+- Product Thinking
+
+## 📈 Atualmente focado em
+
+- Construção de produtos digitais escaláveis
+- Arquitetura limpa e código organizado
+- Automação de processos
+- Performance de aplicações
+- Produtividade com IA no desenvolvimento
+- Crescimento de negócios através de tecnologia
+
+## 🤝 Vamos conectar?
+
+Sempre aberto para trocar ideias sobre:
+- Tecnologia
+- Startups
+- Mobile Development
+- Automação
+- Negócios digitais
+- Escalabilidade
+
+---
+
+> “Tecnologia sem execução é apenas ideia. Execução sem estratégia é apenas esforço.”
